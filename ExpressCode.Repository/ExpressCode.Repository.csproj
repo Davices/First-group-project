@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExpressCode.Common\ExpressCode.Common.csproj" />
+    <ProjectReference Include="..\ExpressCode.IRepository\ExpressCode.IRepository.csproj" />
+    <ProjectReference Include="..\ExpressCode.Model\ExpressCode.Model.csproj" />
+  </ItemGroup>
+
+</Project>
